@@ -5,7 +5,7 @@ Scripts for the main HWL website, public repository
 **Package needed**: **ftp** (sudo apt install ftp), **curl** (sudo apt install curl)
 
 Bash script used to upload grepped xDSL statistic file to a remote hosting provider.
-URL: https://www.hwlegnano.it/
+URL: https://www.hwlegnano.it/hosting/
 
 You need to fill in these variables:
 
